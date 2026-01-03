@@ -42,8 +42,6 @@ I don’t just fix bugs—I trace them back to their root causes and implement p
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varunraom9535&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=varunraom9535&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
