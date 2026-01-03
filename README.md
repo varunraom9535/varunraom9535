@@ -1,18 +1,25 @@
 # 💫 About Me:
 💬 Ask me about:
 Java & Spring Boot, Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Manual & Automation Testing, SQL, backend logic, and effective debugging techniques.
+
 🧠 I think in logic, not just code
 As a passionate learner and problem solver, I focus on breaking down complex challenges into manageable components using foundational principles of DSA and OOP. My approach emphasizes clean, modular design patterns and best practices to create software that is both reliable and scalable, rather than writing code that merely functions.
+
 ☕ Java is my core strength
 With a strong foundation in Java, I develop backend applications leveraging Spring Boot, prioritizing maintainable architecture and reusable components. I concentrate on solving real-world problems through thoughtful design and practical implementation, going beyond syntax to ensure performance, security, and extensibility.
+
 🧪 Quality matters as much as code
 I understand that delivering high-quality software requires rigorous testing. Alongside coding, I actively contribute to both Manual and Automation Testing efforts. My goal is to guarantee that applications are robust, bug-free, and ready for production environments by integrating systematic testing strategies throughout the development lifecycle.
+
 🤖 From test cases to test scripts
 I design detailed test scenarios and write comprehensive test cases that cover a wide range of functional and edge cases. Additionally, I automate repetitive testing workflows using industry-standard tools and frameworks, effectively bridging the communication and workflow gap between development and QA teams to accelerate delivery without compromising quality.
+
 📊 Logic-driven problem solver
 I continuously sharpen my problem-solving skills by practicing data structures and algorithms, focusing on efficient and optimized solutions. This ensures my code is not just correct but also performant and scalable, which is critical in real-world software applications.
+
 🔄 I love the full SDLC journey
 I thrive on understanding and engaging with every phase of the Software Development Life Cycle—from gathering and analyzing requirements, through development and rigorous testing, to optimization and final delivery. This comprehensive perspective helps me appreciate how all parts fit together to produce high-quality, user-centric software.
+
 ⚡ Fun fact
 I don’t just fix bugs—I trace them back to their root causes and implement preventive measures to avoid their recurrence, ensuring more stable and maintainable software systems.
 
