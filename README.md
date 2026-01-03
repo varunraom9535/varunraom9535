@@ -27,9 +27,9 @@ I don’t just fix bugs—I trace them back to their root causes and implement p
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varunraom) 
 
-## 🐍 My GitHub Snake Animation
+## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/<USERNAME>/<REPO>/main/assets/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/yourname/yourname/main/assets/snake.svg)
 
 
 # 💻 Tech Stack:
