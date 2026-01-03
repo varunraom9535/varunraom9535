@@ -29,7 +29,9 @@ I don’t just fix bugs—I trace them back to their root causes and implement p
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/yourname/yourname/main/assets/snake.svg)
+[![GitHub Snake](https://github.com/<YOUR_GITHUB_USERNAME>.github.io/workflows/GitHub%20Snake/badge.svg)](https://github.com/<YOUR_GITHUB_USERNAME>.github.io/actions)
+
+![GitHub Snake animation](https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_GITHUB_USERNAME>/main/snake.svg)
 
 
 # 💻 Tech Stack:
